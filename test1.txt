@@ -1,1 +1,2 @@
 Hey , I'm learning git and github.
+now i'm learning to pull the changes from github to vscode using commend --->git pull
